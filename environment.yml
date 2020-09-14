@@ -1,0 +1,9 @@
+name: docu-eval
+channels:
+- conda-forge
+dependencies:
+  - cmake
+  - doxygen
+  - sphinx
+  - sphinx_rtd_theme
+  - breathe
